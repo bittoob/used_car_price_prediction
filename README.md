@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1> Used Car Price Prediction </h1>
+    
 
     
 <figcaption>Price of Diesel engine car is more compare to Petrol Engine and CNG.</figcaption>   
